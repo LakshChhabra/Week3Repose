@@ -17,7 +17,7 @@ public class GitOporations {
 
          System.out.println("to learn github operations.");
          /**DJKGJKVSDNFZXKJZSDGFSDF
-          * 
+          * lets check fetch now
           * 
           *. Let's make some more changes in here is it wokting ot not 
           *
