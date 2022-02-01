@@ -20,7 +20,7 @@ public class GitOporations {
           * lets check fetch now
           * WHAT TO DO NOW 
           * Let's make some more changes in here is it wokting ot not 
-          *
+          *its done now 
           * ZGSSDFGNSK **/
 
     }
